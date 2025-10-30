@@ -1,0 +1,29 @@
+- Pitch
+	- High/Low
+	- Melody
+	- Harmony
+	- Tonality (Major/Minor)
+- Duration
+	- Beat
+	- Rhythm
+	- Tempo
+	- Metre
+	- Drone
+- Tone Colour
+	- Instruments/voices
+	- Sound Production
+	- Sound Description through Adjectives
+- Texture
+	- Layers of Sound 
+	- Monophonic
+	- Homophonic or Polyphonic
+	- Thin or Thick
+- Dynamics and Expressive Techniques
+	- Loud/Soft
+	- Articulation
+	- Accents
+	- Expression
+- Structure
+	- Form/Sections
+	- Repetition
+	- Contrast

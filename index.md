@@ -9,6 +9,7 @@ This vault can be used as a database to quickly collect and skim through informa
 		- Formula
 		- Explanation
 		- Definition
+		- Profile
 - Application
 - Related Concepts
 

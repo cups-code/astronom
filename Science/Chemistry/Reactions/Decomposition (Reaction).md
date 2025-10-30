@@ -1,6 +1,7 @@
 #Science #Chemistry
 
 - A decomposition reaction is a form of reaction that involves a compound decomposing into two or more products.
+- It is the opposite of a Synthesis reaction.
 
 > [!Info] Formula
 > $$\ce{AB -> A + B}$$
@@ -12,4 +13,5 @@
 > >  This is done through electrolysis.
 
 > [!Question] Related Concepts
-> ...
+> See below.
+> - [[Synthesis (Reaction)]]

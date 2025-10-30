@@ -2,6 +2,7 @@
 
 > [!Info] Formula
 > $$\text{Force = Mass} \times \text{Acceleration}$$
+> $$\vec{F} = m\vec{a}$$
 > ![FMA Triangle 1 Quiz](https://quizizz.com/media/resource/gs/quizizz-media/quizzes/d9f1e0d1-de4a-4426-a23c-b2b5e2ee7d61)
 
 > [!Example] Application

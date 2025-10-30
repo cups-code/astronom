@@ -7,4 +7,7 @@
 > An example scenario could be when you are standing in a subway train and the train suddenly stops, but your body continues to move forward. Your body continues to move forward because it was in motion but as the train stops, an external force repels your forward movement and makes you stop.
 
 > [!Question] Related Concepts
-> ...
+> See below.
+> - [[Motion]]
+> - [[Inertia]]
+> - [[Isaac Newton]]
