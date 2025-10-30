@@ -21,8 +21,23 @@
               "icon": "lucide-file",
               "title": "Reduction"
             }
+          },
+          {
+            "id": "857b37fca46467be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "5cba63792139fd37",
@@ -100,7 +115,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Science/Chemistry/Reactions/Reduction.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,7 +143,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Reduction"
+              "title": "Graph of README"
             }
           }
         ]
@@ -151,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Science/Chemistry/Reactions/Reduction.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +176,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Reduction"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -170,12 +185,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Science/Chemistry/Reactions/Reduction.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Reduction"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -199,13 +214,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Science/Chemistry/Reactions/Reduction.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Reduction"
+              "title": "Outline of README"
             }
           },
           {
@@ -252,15 +267,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3cd4d571e3666633",
+  "active": "857b37fca46467be",
   "lastOpenFiles": [
+    "Science/Chemistry/Reactions/Reduction.md",
+    "README.md",
     "Science/Chemistry/Reactions/Redox (Reaction).md",
     "Science/Chemistry/Reactions/Precipitation (Reaction).md",
     "Science/Chemistry/Reactions/Oxidation.md",
     "Science/Chemistry/Reactions/Decomposition (Reaction).md",
     "Science/Chemistry/Reactions/Synthesis (Reaction).md",
     "Science/Chemistry/Reactions/Acid-Base (Neutralisation).md",
-    "Science/Chemistry/Reactions/Reduction.md",
     "Science/Chemistry/Reactions/Corrosion.md",
     "Science/Chemistry/Reactions/Combustion (Reaction).md",
     "Science/Chemistry/Reactions/Acid-Metal.md",
@@ -280,7 +296,6 @@
     "Science/Space/Celestial Bodies/Nebula.md",
     "Science/Space/Celestial Bodies/Galaxy.md",
     "Science/Space/Metrics/Parsec.md",
-    "Science/Space/Metrics/Light Year.md",
     "Science/Space/Models",
     "Science/Space/Celestial Bodies",
     "Science/Space/Metrics",
